@@ -1,1 +1,1 @@
-worker: node JMusicBot-0.2.4-Windows.jar
+worker: java JMusicBot-0.2.4-Windows.jar
